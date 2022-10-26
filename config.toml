@@ -1,4 +1,4 @@
-baseURL = "https://github.com/H-Drops/my-blog/"
+baseURL = "https://h-drops.github.io/my-blog/"
 languageCode = "zh-CN"
 title = "Itten's Blog"
 theme = "hyde"
@@ -11,9 +11,9 @@ enableEmoji = true
 
 [Menus]
   main = [
-      {Name = "Archives", URL = "https://github.com/H-Drops/my-blog/posts/"},
-      {Name = "Tags", URL = "https://github.com/H-Drops/my-blog/tags/"},
-      {Name = "Photos", URL = "https://github.com/H-Drops/my-blog/photos/"}
+      {Name = "Archives", URL = "https://h-drops.github.io/my-blog/posts/"},
+      {Name = "Tags", URL = "https://h-drops.github.io/my-blog/tags/"},
+      {Name = "Photos", URL = "https://h-drops.github.io/my-blog/photos/"}
   ]
 
 [params]
